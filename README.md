@@ -1,1 +1,3 @@
 # Lenus-Stratify-Validation
+
+ReseachGate link: https://www.researchgate.net/publication/383084602_Validation_of_Lenus_Stratify's_predictive_models_for_chronic_obstructive_pulmonary_disease_risk_an_independent_evaluation
